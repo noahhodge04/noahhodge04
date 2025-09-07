@@ -18,5 +18,6 @@ Most of what I've done fits in back-end, but I hope to learn how to work with UI
 - Generalist nerd -- I collect all sorts of facts on a variety of topics! Star Wars, historical armaments, macaroni and cheese, and the wild aspects of our world!
 - I enjoy video games quite a bit, with no real preferred genres. Current favorites include Warframe, Metal Gear Rising: Revengeance, and Crypt of the NecroDancer!
 - I play lots of TTRPG with my friends! Currently involved in D&D 5e, Pathfinder 2e, and Monster of the Week. Hoping to play Cyberpunk 2020 and Starfinder 2e in the near future!
+- Casual collector of LEGO Star Wars sets. It's not an investment, it's a toy!
 - Working on reading more. Commonly banned dystopians, Asimov, and The Dresden Files are at the top!
 - Avid drinker of tea! London Fogs for when I'm feeling fancy, simple sweet tea for whenever, and straight black tea for when I need to focus.
