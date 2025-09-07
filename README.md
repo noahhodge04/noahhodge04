@@ -1,8 +1,8 @@
 ## Hello! My name is Noah Hodge
-I am a Computer Science major at Grace College, with a minor in mathenatics. I'm still learning a lot of the basics of full-stack development, but fortunately learning is a passion of mine! I think I am better suited to back-end, but I'll learn where I thrive as I learn more about computer science!
+I am a Computer Science major at Grace College, with a minor in mathematics. I'm still learning a lot of the basics of full-stack development, but fortunately learning is a passion of mine! I think I am better suited to back-end, but I'll learn where I thrive as I learn more about computer science!
 
 ## What I Know
-Most of my experience is in Python, but I've also learned some basics in Java, C#, HTML, CSS, PHP, and SQL. I hope to learn a few more of the major languages, as well as generally imrpove my knowledge of logic and programming!
+Most of my experience is in Python, but I've also learned some basics in Java, C#, HTML, CSS, PHP, and SQL. I hope to learn a few more of the major languages, as well as generally improve my knowledge of logic and programming!
 
 Most of what I've done fits in back-end, but I hope to learn how to work with UI someday.
 
